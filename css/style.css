@@ -12,3 +12,11 @@ header {
 .descrizione {
     font-size: 10px;
 }
+
+.evidenziato {
+    background-color: yellow;
+}
+
+thead {
+    width: 24%;
+}
