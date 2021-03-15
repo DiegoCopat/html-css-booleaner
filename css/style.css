@@ -1,0 +1,14 @@
+header {
+    width: 100%;
+    height: 50px;
+    background-color: red;
+}
+
+
+.informazione-pubblicazione {
+    color: grey;
+}
+
+.descrizione {
+    font-size: 10px;
+}
